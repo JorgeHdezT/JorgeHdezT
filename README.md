@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Jorge Hernández Toledo ✨🐧 </h1>
+![image](https://github.com/JorgeHdezT/JorgeHdezT/assets/118739540/df950954-29cc-41d6-9ec3-09309a93d504)<h1 align="center">Hola 👋  soy Jorge Hernández Toledo ✨🐧 </h1>
 <p align="center">
 <img src="images/perfil.png" width="200">
 </p>
@@ -50,9 +50,9 @@
         </a>
       </td>
        <td width="25%" align="center">
-        <a href="https://jorgehdezt.github.io/Screen-Recorder/">
-          <h2 align="center">Screen-Recorder</h2>
-          <img src="images/screenRecorder.png" width="100%" alt="VIDEO">
+        <a href="https://codepen.io/Jorge-Hern-ndez-Toledo/pen/qBLPvLe">
+          <h2 align="center">CSS Penguin</h2>
+          <img src="images/penguin.png" width="100%" alt="VIDEO">
         </a>
       </td>
     </tr>
