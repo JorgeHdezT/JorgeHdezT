@@ -1,5 +1,7 @@
 <p align="center">
   <h1 align="center">Hola 👋  soy Jorge Hernández / Hache ✨🐧 </h1> 
+</p>
+<p align="center">
   <img src="images/perfil.png" width="200">
 </p>
 
