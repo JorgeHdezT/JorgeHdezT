@@ -1,4 +1,3 @@
-![image](https://github.com/JorgeHdezT/JorgeHdezT/assets/118739540/df950954-29cc-41d6-9ec3-09309a93d504)<h1 align="center">Hola 👋  soy Jorge Hernández Toledo ✨🐧 </h1>
 <p align="center">
 <img src="images/perfil.png" width="200">
 </p>
