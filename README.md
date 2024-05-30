@@ -38,11 +38,12 @@
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-       <h2> Screen-Recorder </h2>
-        <img align="center" width=100% src="images/screenRecorder.png"   alt="VIDEO" /></a>
-    </p> 
+    <a href="https://jorgehdezt.github.io/Screen-Recorder/">
+      <p align="center">
+        <h2> Screen-Recorder </h2>
+        <img align="center" width=100% src="images/screenRecorder.png"   alt="VIDEO">
+      </p>
+    </a>
   </td>
 
 <td width="25%" align="center">
