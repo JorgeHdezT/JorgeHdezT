@@ -40,13 +40,13 @@
       <td width="25%" align="center">
         <a href="https://jorgehdezt.github.io/Screen-Recorder/">
           <h2 align="center">Screen-Recorder</h2>
-          <img src="images/screenRecorder.png" width="100%" alt="VIDEO">
+          <img src="images/screenRecorder.png" width="100%" alt="screenrecorder">
         </a>
       </td>
        <td width="25%" align="center">
         <a href="https://jorgehdezt.github.io/Screen-Recorder/">
-          <h2 align="center">Screen-Recorder</h2>
-          <img src="images/screenRecorder.png" width="100%" alt="VIDEO">
+          <h2 align="center">Aoi Hero</h2>
+          <img src="images/aoihero.png" width="100%" alt="aoihero">
         </a>
       </td>
        <td width="25%" align="center">
