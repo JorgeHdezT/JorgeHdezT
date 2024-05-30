@@ -33,38 +33,31 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Proyectos Destacados</h2>
+  <h2>Proyectos Destacados</h2>
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <a href="https://jorgehdezt.github.io/Screen-Recorder/">
-      <p align="center">
-        <h2> Screen-Recorder </h2>
-        <img align="center" width=100% src="images/screenRecorder.png"   alt="VIDEO">
-      </p>
-    </a>
-  </td>
-
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-       <h2> Screen-Recorder </h2>
-        <img align="center" width=100% src="images/screenRecorder.png"   alt="VIDEO" /></a>
-    </p> 
-  </td>
-
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-       <h2> Screen-Recorder </h2>
-        <img align="center" width=100% src="images/screenRecorder.png"   alt="VIDEO" /></a>
-    </p> 
-  </td>
-  
-</tr>
-</table>
-  </div>
+  <table align="left" border="none">
+    <tr>
+      <td width="25%" align="center">
+        <a href="https://jorgehdezt.github.io/Screen-Recorder/">
+          <h2 align="center">Screen-Recorder</h2>
+          <img src="images/screenRecorder.png" width="100%" alt="VIDEO">
+        </a>
+      </td>
+       <td width="25%" align="center">
+        <a href="https://jorgehdezt.github.io/Screen-Recorder/">
+          <h2 align="center">Screen-Recorder</h2>
+          <img src="images/screenRecorder.png" width="100%" alt="VIDEO">
+        </a>
+      </td>
+       <td width="25%" align="center">
+        <a href="https://jorgehdezt.github.io/Screen-Recorder/">
+          <h2 align="center">Screen-Recorder</h2>
+          <img src="images/screenRecorder.png" width="100%" alt="VIDEO">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-------------------------->
 
